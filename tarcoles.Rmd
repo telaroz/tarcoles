@@ -2,7 +2,7 @@
 title: "Tárcoles: a la espera de un milagro"
 output: 
   prettydoc::html_pretty:
-    theme: architect
+    theme: tactile
 always_allow_html: true
 ---
 
